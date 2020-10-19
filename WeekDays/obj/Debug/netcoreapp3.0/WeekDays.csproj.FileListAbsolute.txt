@@ -1,0 +1,11 @@
+C:\Users\sof_z\source\repos\WeekDays\WeekDays\bin\Debug\netcoreapp3.0\WeekDays.exe
+C:\Users\sof_z\source\repos\WeekDays\WeekDays\bin\Debug\netcoreapp3.0\WeekDays.deps.json
+C:\Users\sof_z\source\repos\WeekDays\WeekDays\bin\Debug\netcoreapp3.0\WeekDays.runtimeconfig.json
+C:\Users\sof_z\source\repos\WeekDays\WeekDays\bin\Debug\netcoreapp3.0\WeekDays.runtimeconfig.dev.json
+C:\Users\sof_z\source\repos\WeekDays\WeekDays\bin\Debug\netcoreapp3.0\WeekDays.dll
+C:\Users\sof_z\source\repos\WeekDays\WeekDays\bin\Debug\netcoreapp3.0\WeekDays.pdb
+C:\Users\sof_z\source\repos\WeekDays\WeekDays\obj\Debug\netcoreapp3.0\WeekDays.csprojAssemblyReference.cache
+C:\Users\sof_z\source\repos\WeekDays\WeekDays\obj\Debug\netcoreapp3.0\WeekDays.AssemblyInfoInputs.cache
+C:\Users\sof_z\source\repos\WeekDays\WeekDays\obj\Debug\netcoreapp3.0\WeekDays.AssemblyInfo.cs
+C:\Users\sof_z\source\repos\WeekDays\WeekDays\obj\Debug\netcoreapp3.0\WeekDays.dll
+C:\Users\sof_z\source\repos\WeekDays\WeekDays\obj\Debug\netcoreapp3.0\WeekDays.pdb
